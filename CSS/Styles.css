@@ -111,7 +111,7 @@ p {
 /* Paso 6 Bienvenida */
 
 #welcome {
-  background: url('/Imagenes/totopos.jpg') no-repeat center center/cover;
+  background: url('./Imagenes/totopos.jpg') no-repeat center center/cover;
   height: 450px;  /*tamaño de la imagen */
 }
 
